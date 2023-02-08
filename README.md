@@ -19,7 +19,6 @@
 <p align="left">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haly-dev&theme=dark" alt="haly-dev" /> 
 </p> 
-<br>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=haly-dev&show_icons=true&theme=tokyonight&title_color=c20000&text_color=ffffff&locale=en" alt="haly-dev" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=haly-dev&show_icons=true&theme=tokyonight&title_color=c20000&text_color=ffffff&locale=en" alt="haly-dev" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haly-dev&show_icons=true&theme=tokyonight&title_color=b30000&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="haly-dev" />
 
