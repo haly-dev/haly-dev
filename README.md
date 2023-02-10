@@ -3,9 +3,8 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=haly-dev&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=ffffff&locale=en" alt="haly-dev" />
-  
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=haly-dev&show_icons=true&theme=cobalt&title_color=FFFFFF&text_color=ffffff&bg_color=CCCCCC00&hide_border=false&locale=en&layout=compact" alt="haly-dev" />
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=haly-dev&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=ffffff&locale=en" alt="haly-dev" />
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=haly-dev&show_icons=true&theme=cobalt&title_color=FFFFFF&text_color=ffffff&bg_color=CCCCCC00&hide_border=false&locale=en&layout=compact" alt="haly-dev" />
 </div>
 
 <p align="left">
