@@ -30,5 +30,7 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=haly-dev&show_icons=true&theme=cobalt&title_color=FFFFFF&text_color=ffffff&bg_color=CCCCCC00&locale=en&layout=compact" alt="haly-dev" />
 </div>
 
+![Snake animation](https://github.com/haly-dev/blob/output/github-contribution-grid-snake.svg)
+
 
 
