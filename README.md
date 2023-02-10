@@ -2,8 +2,8 @@
 <h3 align="center">A Full Stack Developer from Brazil</h3>
 
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=haly-dev&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=ffffff&locale=en" alt="haly-dev" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=haly-dev&show_icons=true&theme=cobalt&title_color=FFFFFF&text_color=ffffff&bg_color=CCCCCC00&locale=en&layout=compact" alt="haly-dev" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=haly-dev&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=ffffff&locale=en" alt="haly-dev" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=haly-dev&show_icons=true&theme=cobalt&title_color=FFFFFF&text_color=ffffff&bg_color=CCCCCC00&locale=en&layout=compact" alt="haly-dev" />
 </div>
 
 <p align="left">
@@ -19,7 +19,7 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<img align="right" width="180em"src="https://cdn.picrew.me/shareImg/org/202302/338224_jhqHrXeD.png" alt="avatar" />
+<img align="right" width="180em"src="https://cdn.picrew.me/shareImg/org/202302/338224_fgR5aPgr.png" alt="avatar" />
 </p>
 
 ##
