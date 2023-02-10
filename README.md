@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=haly-dev&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=ffffff&locale=en" alt="haly-dev" />
+<img height="150em" width="500" src="https://github-readme-stats.vercel.app/api?username=haly-dev&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=ffffff&locale=en" alt="haly-dev" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=haly-dev&show_icons=true&theme=cobalt&title_color=FFFFFF&text_color=ffffff&bg_color=CCCCCC00&locale=en&layout=compact" alt="haly-dev" />
 </div>
 
