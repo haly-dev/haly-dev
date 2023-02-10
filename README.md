@@ -1,11 +1,11 @@
 <h1 align="center">I'm Halysson Franca</h1>
 <h3 align="center">A Full Stack Developer from Brazil</h3>
 
-<div>
+<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haly-dev&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=ffffff&locale=en" alt="haly-dev" />
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=haly-dev&show_icons=true&theme=cobalt&title_color=FFFFFF&text_color=ffffff&bg_color=CCCCCC00&hide_border=false&locale=en&layout=compact" alt="haly-dev" />
+<img height="180em" width="530" src="https://github-readme-stats.vercel.app/api/top-langs?username=haly-dev&show_icons=true&theme=cobalt&title_color=FFFFFF&text_color=ffffff&bg_color=CCCCCC00&hide_border=false&locale=en&layout=compact" alt="haly-dev" />
 </div>
 
 <p align="left">
