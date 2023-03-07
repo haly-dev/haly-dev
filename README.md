@@ -27,6 +27,7 @@
 </div>
 
 ###
+<br>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/halysson-franca/" target="_blank">
