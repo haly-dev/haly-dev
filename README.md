@@ -23,12 +23,7 @@
   <a href="https://www.linkedin.com/in/halysson-franca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
-##
 
-<div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=haly-dev&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=ffffff&locale=en" alt="haly-dev" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=haly-dev&show_icons=true&theme=cobalt&title_color=FFFFFF&text_color=ffffff&bg_color=CCCCCC00&locale=en&layout=compact" alt="haly-dev" />
-</div>
 
 
 
