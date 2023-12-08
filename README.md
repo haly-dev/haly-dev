@@ -1,13 +1,6 @@
 <h1 align="center">I'm Halysson Franca</h1>
 <h3 align="center">A Full Stack Developer from Brazil</h3>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=haly-dev" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=haly-dev" height="150" alt="languages graph"  />
-</div>
-
 ##
 
 <img align="right" height="150" src="https://i.imgflip.com/7dm5r7.gif"  />
